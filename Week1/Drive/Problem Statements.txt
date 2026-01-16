@@ -1,1 +1,7 @@
-
+Week 1	
+Easy
+- Best Time to Buy and Sell Stock
+- Find the Index of the First Occurrence in a String 
+Medium
+- 3Sum – Find All Unique Triplets That Sum to Zero
+- Sieve of Eratosthenes – Generate Prime Numbers
