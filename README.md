@@ -14,7 +14,8 @@ https://cscircles.cemc.uwaterloo.ca/java_visualize/#
 | Week 1 | Plus One | 66 |
 | Week 1 | Search Insert Position | 35 |
 | Week 1 | Median of Two Sorted Arrays | 4 |
-| Week 1 | Make the String Great | 1544 |
-| Week 1 | Minimum String Length After Removing Substrings | 2696 |
-| Week 1 | Sum of Subarray Minimums | 907 |
+|---|---|---|
+| Week 2 | Make the String Great | 1544 |
+| Week 2 | Minimum String Length After Removing Substrings | 2696 |
+| Week 2 | Sum of Subarray Minimums | 907 |
 
