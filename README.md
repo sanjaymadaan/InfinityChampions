@@ -18,4 +18,6 @@ https://cscircles.cemc.uwaterloo.ca/java_visualize/#
 | Week 2 | Make the String Great | 1544 |
 | Week 2 | Minimum String Length After Removing Substrings | 2696 |
 | Week 2 | Sum of Subarray Minimums | 907 |
+| Week 2 | Maximum Subarray Min-Product | 1856 |
+| Week 2 | Monotonic Stack + PSE  NSE | Document for Ref |
 
