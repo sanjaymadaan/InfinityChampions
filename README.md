@@ -22,3 +22,4 @@ https://cscircles.cemc.uwaterloo.ca/java_visualize/#
 | Week 2 | Monotonic Stack + PSE  NSE | Document for Ref |
 | Week 2 | Minimum Number of Increments on Subarrays to Form a Target Array | 1526 |
 | Week 2 | Smallest K-Length Subsequence With Occurrences of a Letter | 2030 |
+| Week 2 | Challenging Problems Week 2 | 5 Problem Statements |
