@@ -23,3 +23,15 @@ https://cscircles.cemc.uwaterloo.ca/java_visualize/#
 | Week 2 | Minimum Number of Increments on Subarrays to Form a Target Array | 1526 |
 | Week 2 | Smallest K-Length Subsequence With Occurrences of a Letter | 2030 |
 | Week 2 | Challenging Problems Week 2 | 5 Problem Statements |
+|---|---|---|
+| Week 3 | Time Needed to Buy Tickets | 2073 |
+| Week 3 | Minimum Operations to Make Binary Array Elements Equal to One I | 3191 |
+| Week 3 | Find the Winner of the Circular Game | 1823 |
+| Week 3 | Count Prime-Gap Balanced Subarrays | 3589 |
+| Week 3 | Reveal Cards In Increasing Order | 950 |
+| Week 3 | Jump Game VI | 1696 |
+| Week 3 | Longest Increasing Subsequence II | 2047 |
+| Week 3 | Count Subarrays With Fixed Bounds | 2444 |
+| Week 3 | Maximize the Minimum Powered City | 2528 |
+
+
