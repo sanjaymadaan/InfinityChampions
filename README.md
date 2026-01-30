@@ -25,6 +25,8 @@ https://cscircles.cemc.uwaterloo.ca/java_visualize/#
 | Week 2 | Challenging Problems Week 2 | 5 Problem Statements |
 |---|---|---|
 | Week 3 | CORE DSA APPROACHES USED IN WEEK-3 PROBLEMS | Document for Ref in Week 3 Directory |
+| Week 3 | 1. CORE DSA APPROACHES USED IN WEEK-3 PROBLEMS_EXPLANATION | Document for Ref in Week 3 Directory |
+
 | Week 3 | Time Needed to Buy Tickets | 2073 |
 | Week 3 | Minimum Operations to Make Binary Array Elements Equal to One I | 3191 |
 | Week 3 | Find the Winner of the Circular Game | 1823 |
