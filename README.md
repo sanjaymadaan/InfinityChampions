@@ -36,5 +36,24 @@ https://cscircles.cemc.uwaterloo.ca/java_visualize/#
 | Week 3 | Longest Increasing Subsequence II | 2047 |
 | Week 3 | Count Subarrays With Fixed Bounds | 2444 |
 | Week 3 | Maximize the Minimum Powered City | 2528 |
+|---|---|---|
+|---| Required Problems |---|
+| Week 4 | 1. https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/ | ---- |
+| Week 4 | 2. https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/ | ---- |
+| Week 4 | 3. https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/ | ---- |
+| Week 4 | 4. https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/ | ---- |
+| Week 4 | 5. https://leetcode.com/problems/steps-to-make-array-non-decreasing/description/ | ---- |
+| Week 4 | 6. https://leetcode.com/problems/next-greater-node-in-linked-list/ | ---- |
+| Week 4 | Challenging Problems | ---- |
+| Week 4 | 7. https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/ | ---- |
+| Week 4 | 8. https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/NSELL | ---- |
+| Week 4 | 9. https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/ | ---- |
+| Week 4 | 10. https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/SRTLL | ---- |
+| Week 4 | 11. https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/KGRPREV | ---- |
+| Week 4 | 12. https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/STRANGELIST | ---- |
+
+
+
+
 
 
