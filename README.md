@@ -37,6 +37,7 @@ https://cscircles.cemc.uwaterloo.ca/java_visualize/#
 | Week 3 | Count Subarrays With Fixed Bounds | 2444 |
 | Week 3 | Maximize the Minimum Powered City | 2528 |
 |---|---|---|
+|---| Linked List | Document for Reference |
 |---| Required Problems |---|
 | Week 4 | 1. https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/ | ---- |
 | Week 4 | 2. https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/ | ---- |
