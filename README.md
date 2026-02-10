@@ -52,8 +52,21 @@ https://cscircles.cemc.uwaterloo.ca/java_visualize/#
 | Week 4 | 10. https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/SRTLL | ---- |
 | Week 4 | 11. https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/KGRPREV | ---- |
 | Week 4 | 12. https://www.codechef.com/practice/course/linked-lists/LINKLISTP/problems/STRANGELIST | ---- |
-
-
+|---|---|---|
+|---| Required Problems |---|
+| Week 5 | 1. https://leetcode.com/problems/maximum-product-of-splitted-binary-tree | ---- |
+| Week 5 | 2. https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/ | ---- |
+| Week 5 | 3. https://leetcode.com/problems/even-odd-tree/ | ---- |
+| Week 5 | 4. https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/ | ---- |
+| Week 5 | 5. https://leetcode.com/problems/merge-bsts-to-create-single-bst/ | ---- |
+| Week 5 | 6. https://leetcode.com/problems/cycle-length-queries-in-a-tree/ | ---- |
+|---| Challenging Problems |---|
+| Week 5 | 7. https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/ | ---- |
+| Week 5 | 8. https://leetcode.com/problems/cycle-length-queries-in-a-tree/ | ---- |
+| Week 5 | 9. https://leetcode.com/problems/binary-tree-cameras/ | ---- |
+| Week 5 | 10. https://codeforces.com/problemset/problem/2171/F | ---- |
+| Week 5 | 11. https://codeforces.com/problemset/problem/2167/F | ---- |
+| Week 5 | 12. https://codeforces.com/problemset/problem/2154/D | ---- |
 
 
 
