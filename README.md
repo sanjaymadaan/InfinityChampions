@@ -57,6 +57,7 @@ https://cscircles.cemc.uwaterloo.ca/java_visualize/#
 | Week 5 | 1. https://leetcode.com/problems/maximum-product-of-splitted-binary-tree | ---- |
 | Week 5 | 2. https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/ | ---- |
 | Week 5 | 3. https://leetcode.com/problems/even-odd-tree/ | ---- |
+| Week 5 | https://leetcode.com/problems/validate-binary-search-tree/description/| ---- | 
 | Week 5 | 4. https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/ | ---- |
 | Week 5 | 5. https://leetcode.com/problems/merge-bsts-to-create-single-bst/ | ---- |
 | Week 5 | 6. https://leetcode.com/problems/cycle-length-queries-in-a-tree/ | ---- |
