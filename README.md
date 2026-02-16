@@ -140,15 +140,3 @@ Week 3 → Advanced Data Structures
 Week 4 → Linked List
 Week 5 → Trees & BST
 ```
-
----
-
-If you want, I can also convert this into a **professional GitHub README with:**
-
-* Badges
-* Progress tracking checkboxes
-* Difficulty levels (Easy/Medium/Hard)
-* Topic tags (Array, Stack, Tree, etc.)
-* Faculty-friendly course structure
-
-Just tell me.
