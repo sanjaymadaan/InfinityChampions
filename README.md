@@ -137,22 +137,22 @@ These problems build strong conceptual clarity in tree traversal, BST properties
 
 | # | Problem                                           | Core Concept                       |
 | - | ------------------------------------------------- | ---------------------------------- |
-| 1 | **Delete Leaves With a Given Value**              | Postorder traversal + Tree pruning |
-| 2 | **Closest Nodes Queries in a Binary Search Tree** | Inorder traversal + Binary search  |
-| 3 | **Balance a Binary Search Tree**                  | Sorted array → Balanced BST        |
-| 4 | **Merge BSTs to Create Single BST**               | BST merging + Validation           |
-| 5 | **Make Costs of Paths Equal in a Binary Tree**    | Bottom-up DP + Greedy              |
-| 6 | **Recover a Tree From Preorder Traversal**        | Tree reconstruction from string    |
+| 1 | **Delete Leaves With a Given Value**              | [https://leetcode.com/problems/delete-leaves-with-a-given-value/description/](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/) |
+| 2 | **Closest Nodes Queries in a Binary Search Tree** | [Inorder traversal + Binary search](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/description/)  |
+| 3 | **Balance a Binary Search Tree**                  | [Sorted array → Balanced BST](https://leetcode.com/problems/balance-a-binary-search-tree/description/)        |
+| 4 | **Merge BSTs to Create Single BST**               | [BST merging + Validation](https://leetcode.com/problems/merge-bsts-to-create-single-bst/description/)           |
+| 5 | **Make Costs of Paths Equal in a Binary Tree**    | [Bottom-up DP + Greedy](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/description/)              |
+| 6 | **Recover a Tree From Preorder Traversal**        | [Tree reconstruction from string](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/)    |
 ## Challenging Problems (Advanced + Competitive)
 These require deep understanding of tree DP, query handling, and competitive programming thinking.
 | #  | Problem                                                 | Key Focus                  |
 | -- | ------------------------------------------------------- | -------------------------- |
-| 7  | **Height of Binary Tree After Subtree Removal Queries** | Rerooting DP               |
-| 8  | **Cycle Length Queries in a Tree**                      | Binary lifting logic       |
-| 9  | **Codeforces Problem 1143C**                            | Tree traversal + filtering |
-| 10 | **Codeforces Problem 1466D**                            | Greedy on tree degrees     |
-| 11 | **Codeforces Problem 1676G**                            | Subtree counting           |
-| 12 | **Codeforces Problem 1857D**                            | Tree/graph reasoning       |
+| 7  | **Height of Binary Tree After Subtree Removal Queries** | [Rerooting DP](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/description/)               |
+| 8  | **Cycle Length Queries in a Tree**                      | [Binary lifting logic](https://leetcode.com/problems/cycle-length-queries-in-a-tree/description/)       |
+| 9  | **Codeforces Problem 1143C**                            | [Tree traversal + filtering](https://codeforces.com/problemset/problem/1143/C) |
+| 10 | **Codeforces Problem 1466D**                            | [Greedy on tree degrees](https://codeforces.com/problemset/problem/1466/D)     |
+| 11 | **Codeforces Problem 1676G**                            | [Subtree counting](https://codeforces.com/problemset/problem/1676/G)           |
+| 12 | **Codeforces Problem 1857D**                            | [Tree/graph reasoning](https://codeforces.com/problemset/problem/1857/D)       |
 
 
 # Recommended Learning Order
