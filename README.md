@@ -130,6 +130,30 @@ Use the following tool to visualize Java code execution step-by-step:
 | Codeforces 2154D                                    | [https://codeforces.com/problemset/problem/2154/D](https://codeforces.com/problemset/problem/2154/D)                                                                     |
 
 ---
+# Week 6 – Trees and Binary Search Trees
+
+## Required Problems
+These problems build strong conceptual clarity in tree traversal, BST properties, and reconstruction logic.
+
+| # | Problem                                           | Core Concept                       |
+| - | ------------------------------------------------- | ---------------------------------- |
+| 1 | **Delete Leaves With a Given Value**              | Postorder traversal + Tree pruning |
+| 2 | **Closest Nodes Queries in a Binary Search Tree** | Inorder traversal + Binary search  |
+| 3 | **Balance a Binary Search Tree**                  | Sorted array → Balanced BST        |
+| 4 | **Merge BSTs to Create Single BST**               | BST merging + Validation           |
+| 5 | **Make Costs of Paths Equal in a Binary Tree**    | Bottom-up DP + Greedy              |
+| 6 | **Recover a Tree From Preorder Traversal**        | Tree reconstruction from string    |
+## Challenging Problems (Advanced + Competitive)
+These require deep understanding of tree DP, query handling, and competitive programming thinking.
+| #  | Problem                                                 | Key Focus                  |
+| -- | ------------------------------------------------------- | -------------------------- |
+| 7  | **Height of Binary Tree After Subtree Removal Queries** | Rerooting DP               |
+| 8  | **Cycle Length Queries in a Tree**                      | Binary lifting logic       |
+| 9  | **Codeforces Problem 1143C**                            | Tree traversal + filtering |
+| 10 | **Codeforces Problem 1466D**                            | Greedy on tree degrees     |
+| 11 | **Codeforces Problem 1676G**                            | Subtree counting           |
+| 12 | **Codeforces Problem 1857D**                            | Tree/graph reasoning       |
+
 
 # Recommended Learning Order
 
@@ -139,4 +163,5 @@ Week 2 → Stack & Monotonic Stack
 Week 3 → Advanced Data Structures
 Week 4 → Linked List
 Week 5 → Trees & BST
+Week 6 → BST
 ```
