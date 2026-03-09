@@ -155,6 +155,39 @@ These require deep understanding of tree DP, query handling, and competitive pro
 | 12 | **Codeforces Problem 1857D**                            | [Tree/graph reasoning](https://codeforces.com/problemset/problem/1857/D)       |
 
 
+Here is a **clean GitHub README section in tabular format for Week 7**. This format works well in **GitHub Markdown files and provides clear organization of problems and links.
+
+---
+
+# Week 7 – Graph Algorithms & Advanced Problem Solving
+
+
+# Required Problems
+
+| S.No | Problem Name                              | Platform | Topic                                     | Link                                                                                                                                                 |
+| ---- | ----------------------------------------- | -------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Find if Path Exists in Graph              | LeetCode | Graph Traversal (DFS/BFS)                 | [https://leetcode.com/problems/find-if-path-exists-in-graph/description/](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)   |
+| 2    | Course Schedule IV                        | LeetCode | Graph + Topological Sort / Floyd Warshall | [https://leetcode.com/problems/course-schedule-iv/description/](https://leetcode.com/problems/course-schedule-iv/description/)                       |
+| 3    | Number of Ways to Arrive at Destination   | LeetCode | Dijkstra + Dynamic Programming            | [https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)     |
+| 4    | Node With Highest Edge Score              | LeetCode | Graph + Hashing                           | [https://leetcode.com/problems/node-with-highest-edge-score/description/](https://leetcode.com/problems/node-with-highest-edge-score/description/)   |
+| 5    | Minimum Time to Visit Disappearing Nodes  | LeetCode | Shortest Path / Dijkstra                  | [https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/)   |
+| 6    | Minimum Time to Transport All Individuals | LeetCode | Binary Search + Simulation                | [https://leetcode.com/problems/minimum-time-to-transport-all-individuals/](https://leetcode.com/problems/minimum-time-to-transport-all-individuals/) |
+
+---
+
+# Challenging Problems
+
+| S.No | Problem Name                   | Platform   | Topic                          | Link                                                                                                                           |
+| ---- | ------------------------------ | ---------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | Maximum Partition Factor       | LeetCode   | Greedy / Mathematical Analysis | [https://leetcode.com/problems/maximum-partition-factor/](https://leetcode.com/problems/maximum-partition-factor/)             |
+| 2    | Minimum Edge Toggles on a Tree | LeetCode   | Tree DP / Graph Theory         | [https://leetcode.com/problems/minimum-edge-toggles-on-a-tree/](https://leetcode.com/problems/minimum-edge-toggles-on-a-tree/) |
+| 3    | News Distribution              | Codeforces | Graph + Connected Components   | [https://codeforces.com/problemset/problem/1167/C](https://codeforces.com/problemset/problem/1167/C)                           |
+| 4    | Mortal Kombat Tower            | Codeforces | Dynamic Programming            | [https://codeforces.com/problemset/problem/1418/C](https://codeforces.com/problemset/problem/1418/C)                           |
+| 5    | Ehab and Path-etic MEXs        | Codeforces | Tree Labeling / Graph Theory   | [https://codeforces.com/problemset/problem/1325/C](https://codeforces.com/problemset/problem/1325/C)                           |
+| 6    | Edgy Trees                     | Codeforces | Graph + Combinatorics          | [https://codeforces.com/problemset/problem/1139/C](https://codeforces.com/problemset/problem/1139/C)                           |
+
+---
+
 # Recommended Learning Order
 
 ```
@@ -164,4 +197,5 @@ Week 3 → Advanced Data Structures
 Week 4 → Linked List
 Week 5 → Trees & BST
 Week 6 → BST
+Week 6 → Graph Algorithms
 ```
