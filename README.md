@@ -197,5 +197,5 @@ Week 3 → Advanced Data Structures
 Week 4 → Linked List
 Week 5 → Trees & BST
 Week 6 → BST
-Week 6 → Graph Algorithms
+Week 7 → Graph Algorithms
 ```
